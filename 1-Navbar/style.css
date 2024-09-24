@@ -56,3 +56,17 @@ a img {
   color: #232342;
   transition: 0.5s ease;
 }
+
+.aside {
+  height: 88vh;
+  width: 200px;
+  background-color: #27277c;
+}
+.sideMenu ul li a {
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  border-bottom: 1px solid white;
+}
